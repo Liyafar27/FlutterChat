@@ -1,6 +1,6 @@
 # farkhshatova_chat
 
-Hello for everyone this's my flutter chat app on Firebase 
+Hello for everyone this's my Flutter chat app on Firebase 
 
 
 <p align="center">
