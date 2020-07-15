@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "955222146464",
+    "firebase_url": "https://farkhshatovachat.firebaseio.com",
+    "project_id": "farkhshatovachat",
+    "storage_bucket": "farkhshatovachat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955222146464:android:b002b724ac644ad81c38c5",
+        "android_client_info": {
+          "package_name": "com.example.farkhshatova_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955222146464-3v7k02f0hcts0f01lda3tn0vigq3mkmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMQCp8upYS3AjjnHl1AfeScLEgVjUIZF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955222146464-3v7k02f0hcts0f01lda3tn0vigq3mkmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
